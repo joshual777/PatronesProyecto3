@@ -1,0 +1,5 @@
+Este proyecto consiste en comparar modelos de clasificación de enfermedades de plantas, con
+un total de 38 categorías. La diferencia es que unos de los clasificadores serán construidos sobre
+un autoencoder, que a su vez fue entrenado de forma self-supervised con un conjunto de datos
+sin labels. Adicionalmente, se realizará el modelo más robusto usando ruido en la imagen de
+entrada.
